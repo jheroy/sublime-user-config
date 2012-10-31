@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 1351643886,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"CTags",
+		"Git",
+		"Package Control",
+		"Rails Latest Migration",
+		"Ruby Slim",
+		"RubyFormat",
+		"RubyMotion Autocomplete",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"VintageEx",
+		"XSnippet"
+	]
+}
