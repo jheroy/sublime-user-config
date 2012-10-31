@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1351643886,
 	"installed_packages":
 	[
+		"Alignment",
 		"BeautifyRuby",
 		"CTags",
 		"Git",
@@ -10,8 +11,11 @@
 		"Ruby Slim",
 		"RubyFormat",
 		"RubyMotion Autocomplete",
+		"RubyTest",
+		"Solarized Color Scheme (TextMate)",
 		"SublimeCodeIntel",
 		"sublimelint",
+		"Theme - Soda",
 		"VintageEx",
 		"XSnippet"
 	]
