@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351643886,
+	"auto_upgrade_last_run": 1352276870,
 	"installed_packages":
 	[
 		"Alignment",
@@ -12,9 +12,10 @@
 		"RubyFormat",
 		"RubyMotion Autocomplete",
 		"RubyTest",
-		"Solarized Color Scheme (TextMate)",
+		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"sublimelint",
+		"SublimErl",
 		"Theme - Soda",
 		"VintageEx",
 		"XSnippet"
