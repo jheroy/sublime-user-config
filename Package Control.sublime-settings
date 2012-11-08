@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351729950,
+	"auto_upgrade_last_run": 1352092133,
 	"installed_packages":
 	[
 		"Alignment",
@@ -15,8 +15,8 @@
 		"Solarized Color Scheme (TextMate)",
 		"SublimeCodeIntel",
 		"sublimelint",
-		"Theme - Soda",
 		"Terminal",
+		"Theme - Soda",
 		"VintageEx",
 		"XSnippet"
 	]
