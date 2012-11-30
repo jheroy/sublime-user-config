@@ -1,19 +1,65 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_style": "blink",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		".tags*"
+	],
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"font_face": "Monaco",
-	"font_size": 12,
+	"font_size": 8,
+	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
-		"",
-		"RubyMotion Autocomplete"
+		""
 	],
-	"use_simple_full_screen": true,
-	"auto_complete_commit_on_tab": true,
-	"tab_completion": true,
-	"fold_buttons": true,
-	"fade_fold_buttons": true,
-	"highlight_line": true,
-	"caret_style": "blink",
 	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"tab_completion": true,
 	"vintage_start_in_command_mode": true
 }

@@ -1,22 +1,25 @@
 {
-	"auto_upgrade_last_run": 1352092133,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"BeautifyRuby",
+		"BracketHighlighter",
 		"CTags",
+		"DetectSyntax",
+		"Function Name Display",
 		"Git",
 		"Package Control",
 		"Rails Latest Migration",
 		"Ruby Slim",
 		"RubyFormat",
-		"RubyMotion Autocomplete",
 		"RubyTest",
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"sublimelint",
-		"Terminal",
 		"SublimErl",
+		"Terminal",
 		"Theme - Soda",
 		"VintageEx",
 		"XSnippet"
